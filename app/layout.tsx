@@ -10,9 +10,11 @@ export const metadata: Metadata = {
   description:
     "We help young founders.",
   openGraph: {
-    images: ["https://ai-saas-template-aceternity.vercel.app/banner.png"],
+    images: ["https://cdn.usegalileo.ai/screenshots/f1da51be-344d-4c8f-bb5a-5efafbac41a5.webp"],
   },
 };
+
+
 
 export default function RootLayout({
   children,
